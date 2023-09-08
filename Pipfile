@@ -22,6 +22,7 @@ pytest-bdd-html = "*"
 pytest-html = "*"
 sphinx-toolbox = "*"
 py = "*"
+securesystemslib = "==0.28.0"
 
 [dev-packages]
 
