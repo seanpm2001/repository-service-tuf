@@ -19,7 +19,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Repository Service for TUF '
-copyright = '2022, VMware Inc'
+copyright = '2023, VMware Inc and Repository Service for TUF Developers'
 author = 'Kairo de Araujo'
 
 
